@@ -1,0 +1,52 @@
+﻿american.gxt (only dir)
+0x69FCE1
+0x6A01BE
+
+carcols.dat
+0x5B68A0
+
+effects.fxp
+0x49EA9D
+
+fonts.txd
+0x5BA69E
+
+fronten2.txd
+0x57303A
+0x57313C
+
+fronten_pc.txd
+0x572FAF
+
+gta.dat
+0x53DF1F
+0x53E580
+
+handling.cfg (no fulldir)
+0x5BD838
+0x5BD84B
+
+hud.txd
+0x5BA85F
+
+LOADSCS.txd (no fulldir)
+0x5900B6
+0x5900CC
+
+main.scm (no fulldir + fulldir)
+0x468EB5
+0x468EC4
+//
+0x489A45
+
+object.dat
+0x5B925A
+
+particle.txd
+0x5BF8B1
+
+default.dat
+0x53BC90
+
+weapon.dat
+0x5BE685
